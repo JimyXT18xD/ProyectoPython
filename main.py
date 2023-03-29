@@ -65,4 +65,5 @@ while True:
     else:
         print("Opción inválida.")
 
-    print()  # Imprimir una línea en blanco para separar las opciones.
+    print()  # Imprimir una línea en blanco para separar las opciones.    
+print()  # Imprimir una línea en blanco para separar las opciones.
